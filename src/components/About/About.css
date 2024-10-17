@@ -1,0 +1,91 @@
+.about-container {
+  border: 1px solid #dcdcdc;
+  background-color: #ffffff;
+  margin-top: 30px;
+  border-radius: 15px;
+  margin: 20px;
+  margin-left: 20%;
+  display: flex;
+  flex-direction: column;
+}
+.header {
+  background: linear-gradient(270.04deg, #fbfcfb 0.05%, #f4f7ec 99.98%);
+  height: 62px;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 30px;
+}
+.title {
+  color: #313131;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.follow-btn {
+  border: 1px solid #3a643b;
+  background-color: #ffffff;
+  color: #585858;
+  font-size: 16px;
+  padding: 8px 20px;
+  border-radius: 10px;
+  height: 36px;
+  width: 114px;
+}
+.plus {
+  color: #585858;
+  font-size: 16px;
+  margin-left: 5px;
+  font-weight: 500;
+}
+.description {
+  width: 540px;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 20px 30px 20px 30px;
+}
+.text {
+  color: #33354880;
+  margin-bottom: 10px;
+}
+.break {
+  display: flex;
+}
+.hr {
+  color: #797979;
+  width: 437px;
+}
+.read-more {
+  color: #2b2b2b;
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: underline;
+  margin-left: 8px;
+}
+.con {
+  display: flex;
+  justify-content: space-around;
+  width: 491px;
+}
+.head {
+  color: #000000;
+  font-size: 20px;
+  font-weight: 500;
+}
+.lang {
+  color: #505050;
+  font-size: 20px;
+}
+.icons {
+  display: flex;
+  gap: 15px;
+  margin: 30px;
+}
+.icon {
+  border: 1px solid #3a643b;
+  color: #3a643b;
+  font-size: 40px;
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  padding: 10px;
+}

@@ -1,0 +1,13 @@
+.main-container {
+  padding: 80px 50px;
+}
+.main-section {
+  display: flex;
+  justify-content: center;
+}
+.left-part {
+  width: 50%;
+}
+.right-part {
+  width: 50%;
+}
